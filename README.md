@@ -1,14 +1,30 @@
 # CoronathonTurkiye
 21 - 22 Mart 2020 Tarihleri arasında, coronathonturkiye.com tarafindan düzenlenen hackathon projem icin oluşturduğum repom.
 
-Covid-19 virusu sebebiyle baslatilmasi dusunulen bir bisiklet organizasyonu var. 65 yas uzeri insanlara veya evde ihtiyac sahiplerine gonullu olarak paket servis hizmeti. anketi bu geceye kadar doldurmanız gerekiyor. yaya bildiginiz kadar insana yayalim. tesekkurler.
-
-https://tr.surveymonkey.com/r/5PRLHQL
+## Ekran Goruntuleri
 
 ![Screen Shot 2020-03-22 at 11 44 50 PM](https://user-images.githubusercontent.com/12815851/77260140-3ef00400-6c97-11ea-99db-3fe3e0691c34.png)
 ![Screen Shot 2020-03-22 at 11 37 14 PM](https://user-images.githubusercontent.com/12815851/77260141-40213100-6c97-11ea-9ba3-4983c7afb81c.png)
 ![Screen Shot 2020-03-22 at 11 30 14 PM](https://user-images.githubusercontent.com/12815851/77260143-40b9c780-6c97-11ea-861c-20099496547b.png)
 ![Screen Shot 2020-03-22 at 11 29 28 PM](https://user-images.githubusercontent.com/12815851/77260144-41525e00-6c97-11ea-9a57-e518e6cdf27c.png)
+
+## Anket Sonuclari
+Covid-19 virusu sebebiyle baslatilmasi dusunulen bir bisiklet organizasyonu var. 65 yas uzeri insanlara veya evde ihtiyac sahiplerine gonullu olarak paket servis hizmeti. anketi bu geceye kadar doldurmanız gerekiyor. yaya bildiginiz kadar insana yayalim. tesekkurler.
+
+https://tr.surveymonkey.com/r/5PRLHQL
+
+![Screen Shot 2020-03-22 at 11 48 34 PM](https://user-images.githubusercontent.com/12815851/77260264-f84ed980-6c97-11ea-8bac-b11eb8c03833.png)
+![Screen Shot 2020-03-22 at 11 48 31 PM](https://user-images.githubusercontent.com/12815851/77260265-f9800680-6c97-11ea-9c3d-faba24bf0709.png)
+![Screen Shot 2020-03-22 at 11 48 28 PM](https://user-images.githubusercontent.com/12815851/77260266-f9800680-6c97-11ea-9b1e-b7c8a4ad8328.png)
+![Screen Shot 2020-03-22 at 11 48 26 PM](https://user-images.githubusercontent.com/12815851/77260267-fa189d00-6c97-11ea-9098-cf66168258ac.png)
+![Screen Shot 2020-03-22 at 11 48 20 PM](https://user-images.githubusercontent.com/12815851/77260268-fab13380-6c97-11ea-825d-47967991e0bf.png)
+![Screen Shot 2020-03-22 at 11 47 55 PM](https://user-images.githubusercontent.com/12815851/77260269-fab13380-6c97-11ea-9c58-c2ef3c9f7bed.png)
+![Screen Shot 2020-03-22 at 11 47 50 PM](https://user-images.githubusercontent.com/12815851/77260270-fb49ca00-6c97-11ea-898d-632bb12347ff.png)
+![Screen Shot 2020-03-22 at 11 47 40 PM](https://user-images.githubusercontent.com/12815851/77260272-fb49ca00-6c97-11ea-832e-83557f8e43e5.png)
+![Screen Shot 2020-03-22 at 11 47 45 PM](https://user-images.githubusercontent.com/12815851/77260273-fbe26080-6c97-11ea-8f43-4d18bde33744.png)
+
+
+# Bisiklet Kulupleri
 
 ## ADANA
 • Adana Bisiklet Topluluğu ABİT
