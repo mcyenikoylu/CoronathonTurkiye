@@ -1,6 +1,8 @@
 # CoronathonTurkiye
 21 - 22 Mart 2020 Tarihleri arasında, coronathonturkiye.com tarafindan düzenlenen hackathon projem icin oluşturduğum repom.
 
+Bisiklet severlerden olusan insanların, kendi semtlerin de 65 yas uzeri olan insanlara veya engeli olan ihtiyac sahiplerine, kisisel temel günlük gida (ekmek,sut,gazete), ilca ve benzeri itiyaclarini gonullu olarak ulaştırmak. Ihtiyac sahipleri ve bisiklet severler arasındaki iletişimi mobil uygulama sayesinde saglamak.
+
 ## Ekran Goruntuleri
 
 ![Screen Shot 2020-03-22 at 11 44 50 PM](https://user-images.githubusercontent.com/12815851/77260140-3ef00400-6c97-11ea-99db-3fe3e0691c34.png)
