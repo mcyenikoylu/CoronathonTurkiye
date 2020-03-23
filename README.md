@@ -1,6 +1,7 @@
 # CoronathonTurkiye icin projem Packcle! 
 ## İhtiyaç sahipleri için pedalla.
 21 - 22 Mart 2020 Tarihleri arasında, coronathonturkiye.com tarafindan düzenlenen hackathon projem icin oluşturduğum repom.
+[.pdf](https://github.com/mcyenikoylu/CoronathonTurkiye/files/4367886/Coronathon.Proje.Sunumu.Ornegi.pdf) - Coronathon Proje Sunumum
 
 # Problem
 
