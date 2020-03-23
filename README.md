@@ -33,7 +33,8 @@ Mobil telefon üzerinde çalışan uygulamamız sayesinde ihtiyaç sahibi ile g�
 ## Anket Sonuclari
 Covid-19 virusu sebebiyle baslatilmasi dusunulen bir bisiklet organizasyonu var. 65 yas uzeri insanlara veya evde ihtiyac sahiplerine gonullu olarak paket servis hizmeti. anketi bu geceye kadar doldurmanız gerekiyor. yaya bildiginiz kadar insana yayalim. tesekkurler.
 
-https://tr.surveymonkey.com/r/5PRLHQL
+[Anket 1](https://tr.surveymonkey.com/r/5PRLHQL) - Bisiklet kullanicilari icin olusturmus oldugum anket.
+[Anket 2]() - 65 yas uzeri ve kronik hastalar icin olusturmus oldugum anket.
 
 ![Screen Shot 2020-03-22 at 11 48 34 PM](https://user-images.githubusercontent.com/12815851/77260264-f84ed980-6c97-11ea-8bac-b11eb8c03833.png)
 ![Screen Shot 2020-03-22 at 11 48 31 PM](https://user-images.githubusercontent.com/12815851/77260265-f9800680-6c97-11ea-9c3d-faba24bf0709.png)
@@ -49,24 +50,24 @@ https://tr.surveymonkey.com/r/5PRLHQL
 # Bisiklet Kulupleri
 
 ## ADANA
-• Adana Bisiklet Topluluğu ABİT
+* Adana Bisiklet Topluluğu ABİT
 www.facebook.com/pages/Adana-Bisiklet-Topluluğu-ABİT/1383530355254365
-• Adana Dağ Bisiklet Spor Kulübü
+* Adana Dağ Bisiklet Spor Kulübü
 www.facebook.com/pages/Adana-Dağ-Bisiklet-Spor-Kulübü/460757807407704
-• Perşembe Akşamı Bisikletçileri Adana
+* Perşembe Akşamı Bisikletçileri Adana
 www.facebook.com/PersembeAksamiBisikletcileriAdana
-• Adana Bisiklet Spor Kulübü
+* Adana Bisiklet Spor Kulübü
 www.facebook.com/pages/Adana-Bisiklet-Spor-Kulübü/249924265089152
-• Adana Bisiklet Gruplarından Haberler – Geziler –Turlar
+* Adana Bisiklet Gruplarından Haberler – Geziler –Turlar
 www.facebook.com/groups/572720439489538/
-• Çukurova Üniversitesi Bisiklet Kulübü 
+* Çukurova Üniversitesi Bisiklet Kulübü 
 www.facebook.com/CukurovaUniversitesiBisikletKulubu
 www.facebook.com/groups/cukurovauniversitesibisikletkulubu/
-• CeyBis (Ceyhan Bisiklet Topluluğu)
+* CeyBis (Ceyhan Bisiklet Topluluğu)
 www.facebook.com/groups/527471364029795/
-• KozanBisikletGezginleri(KOZBİ)
+* KozanBisikletGezginleri(KOZBİ)
 www.facebook.com/groups/Kozanbisiklet
-• PAB ADANA
+* PAB ADANA
 www.facebook.com/groups/493161717447969/
 
 ## ADIYAMAN
