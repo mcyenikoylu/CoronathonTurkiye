@@ -1,9 +1,29 @@
-# CoronathonTurkiye
+# CoronathonTurkiye icin projem Packcle! 
+## İhtiyaç sahipleri için pedalla.
 21 - 22 Mart 2020 Tarihleri arasında, coronathonturkiye.com tarafindan düzenlenen hackathon projem icin oluşturduğum repom.
 
-Bisiklet severlerden olusan insanların, kendi semtlerin de 65 yas uzeri olan insanlara veya engeli olan ihtiyac sahiplerine, kisisel temel günlük gida (ekmek,sut,gazete), ilca ve benzeri itiyaclarini gonullu olarak ulaştırmak. Ihtiyac sahipleri ve bisiklet severler arasındaki iletişimi mobil uygulama sayesinde saglamak.
+# Problem
 
-## Ekran Goruntuleri
+1. Türkiye Cumhuriyeti İçişleri Bakanlığı tarafından 22 Mart 2020 Gecesi itibari ile baslayan, küresel bir salgın olan Corona Virüs sebebi ile 65 yaş üzeri veya kronik rahatsızlığı olan vatandaşların sokağa çıkması kısıtlandırılmıştır. Salgın durumu daha kötüye giderse butun vatandaşlara kısa süreliğine sokağa çıkma yasağı uygulanacaktır.
+
+2. Bu durumun insanları günlük yaşantısını olumsuz yönde etkileyeceğini biliyoruz. Temel ihtiyaçları için dışarıya çıkma izinleri olsa dahi herkesin böyle bir şansı olmayacak. Fiziksel engeli olanlar, yaşlılar, kronik hastalıkları olanlar ve yardimci olacak yakınları olmayanlar var. İlaçlarını ve temel gıda alışverişlerini yapamayacaklar.
+
+# Cozum
+
+## 1 Maliyetler dusuk olmak zorunda.
+Maliyeti en düşük sekilde bu lojistiği saglayacak araç bisiklet olacaktır. Lojistiğe hız kazandıracak şey ise telefon ve internet teknolojisi olacaktır.
+
+## 2 Hizli ulasim ve iletisim olmali.
+Bisikletler motorsuz araçlardır. Bu yüzen yakıt maliyeti oluşturmazlar. Tamiri kolay, hızlı ve ucuzdur. Akıllı telefonlar koordinat özelliği sayesinde hatasın adresleme ve hız kazandırırlar. Internet maliyetleri ve enerji maliyetleri düşüktür.
+
+## 3 Ekip ve sistemin kurulumu basit olmali.
+Günümüz de herkesin kisisel bir akıllı telefonu var. Ulkemiz de insanların bir cogu bisiklete sahipler. Ulkemiz de 500+ uzerinde bisiklet kulübünün facebook hesabı var.
+
+# Ürün ve Hizmetler
+Mobil telefon üzerinde çalışan uygulamamız sayesinde ihtiyaç sahibi ile gönüllü bisiklet hizmetlisini buluşturuyoruz.
+İhtiyaç sahibi bir ihtiyaç kartı açıyor, bakkal veya eczane kart istegini kabul ediyor. Odeme havuzda bekletiliyor. Lokasyona en yakin olan bisiklet hizmetlisi harekete geciyor. Odeme teslim ediliyor. Hizmetli puan kazanıyor.
+
+# Ekran Goruntuleri
 
 ![Screen Shot 2020-03-22 at 11 44 50 PM](https://user-images.githubusercontent.com/12815851/77260140-3ef00400-6c97-11ea-99db-3fe3e0691c34.png)
 ![Screen Shot 2020-03-22 at 11 37 14 PM](https://user-images.githubusercontent.com/12815851/77260141-40213100-6c97-11ea-9ba3-4983c7afb81c.png)
